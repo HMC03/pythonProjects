@@ -1,5 +1,4 @@
 print("Welcome to Simple Calculator")
-
     
 def add(a,b):
     return a + b
@@ -28,11 +27,3 @@ while True:
         print('Result = ', divide(num1,num2))
     else:
         print('Operation not recognized')
-
-
-        
-
-
-
-
-    
