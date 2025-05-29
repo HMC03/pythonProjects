@@ -21,7 +21,7 @@ while True:
         print('Result = ', add(num1,num2))
     elif(operation == '-'):
         print('Result = ', sub(num1,num2))
-    elif(operation == 'x'):
+    elif(operation == '*'):
         print('Result = ', multiply(num1,num2))
     elif(operation == '/'):
         print('Result = ', divide(num1,num2))
